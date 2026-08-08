@@ -22,38 +22,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[7shifts](https://www.7shifts.com/)**  
-  Restaurant-focused scheduling platform with labor forecasting, POS integrations, tip management, shift swaps, and team communication tools designed for independent and multi-unit operators.
-
-- **[HotSchedules (Fourth)](https://www.fourth.com/)**  
-  Widely adopted hospitality workforce management suite covering scheduling, time & attendance, labor forecasting, compliance, and tip management for mid-to-large restaurant groups.
-
-- **[When I Work](https://wheniwork.com/)**  
-  Popular employee scheduling and time-tracking tool with open shifts, availability management, and mobile apps suited for restaurants and small teams.
-
-- **[Deputy](https://www.deputy.com/)**  
-  Flexible workforce management platform offering automated scheduling, time tracking, and multi-location support used across hospitality and retail.
-
-- **[Homebase](https://www.joinhomebase.com/)**  
-  Simple and affordable scheduling, time clock, and team communication platform popular with small restaurants and single-location businesses (strong free tier).
-
-- **[Planday](https://www.planday.com/)**  
-  Workforce management solution focused on hospitality scheduling, communication, and labor cost control with strong European presence.
-
-- **[Sling](https://getsling.com/)**  
-  Free and paid employee scheduling app with messaging, time tracking, and shift management frequently used by restaurants and small businesses.
-
-- **[ZoomShift](https://www.zoomshift.com/)**  
-  Straightforward employee scheduling software with drag-and-drop tools, availability tracking, and mobile access for shift-based teams.
-
-- **[Humanity](https://www.humanity.com/)**  
-  Workforce management platform offering scheduling, time clocks, and attendance features suitable for hospitality operations.
-
-- **[Schedulefly](https://www.schedulefly.com/)**  
-  Restaurant-oriented scheduling tool emphasizing simplicity, employee messaging, and basic shift management.
-
-- **[Connecteam](https://connecteam.com/)**  
-  All-in-one employee app with scheduling, time tracking, task management, and communication features used by restaurants and field teams.
+| Platform | Description | Pricing | Free Tier Limit |
+|----------|-------------|---------|-----------------|
+| **[7shifts](https://www.7shifts.com/)** | Restaurant-focused scheduling platform with labor forecasting, POS integrations, tip management, shift swaps, and team communication tools designed for independent and multi-unit operators. | Paid from $29.99/mo/location | Up to 30 employees / 1 location |
+| **[HotSchedules (Fourth)](https://www.fourth.com/)** | Widely adopted hospitality workforce management suite covering scheduling, time & attendance, labor forecasting, compliance, and tip management for mid-to-large restaurant groups. | Custom quote based | N/A |
+| **[When I Work](https://wheniwork.com/)** | Popular employee scheduling and time-tracking tool with open shifts, availability management, and mobile apps suited for restaurants and small teams. | Paid from $2.50/user/mo | N/A |
+| **[Deputy](https://www.deputy.com/)** | Flexible workforce management platform offering automated scheduling, time tracking, and multi-location support used across hospitality and retail. | Paid from $3.50/user/mo | N/A |
+| **[Homebase](https://www.joinhomebase.com/)** | Simple and affordable scheduling, time clock, and team communication platform popular with small restaurants and single-location businesses. | Paid from $20/mo/location | Up to 20 employees / 1 location |
+| **[Planday](https://www.planday.com/)** | Workforce management solution focused on hospitality scheduling, communication, and labor cost control with strong European presence. | Custom quote based | N/A |
+| **[Sling](https://getsling.com/)** | Free and paid employee scheduling app with messaging, time tracking, and shift management frequently used by restaurants and small businesses. | Paid from $1.70/user/mo | Unlimited employees (basic scheduling only) |
+| **[ZoomShift](https://www.zoomshift.com/)** | Straightforward employee scheduling software with drag-and-drop tools, availability tracking, and mobile access for shift-based teams. | Paid from $2.00/user/mo | N/A |
+| **[Humanity](https://www.humanity.com/)** | Workforce management platform offering scheduling, time clocks, and attendance features suitable for hospitality operations. | Paid from $3.00/user/mo | N/A |
+| **[Schedulefly](https://www.schedulefly.com/)** | Restaurant-oriented scheduling tool emphasizing simplicity, employee messaging, and basic shift management. | Paid from $30/mo | N/A |
+| **[Connecteam](https://connecteam.com/)** | All-in-one employee app with scheduling, time tracking, task management, and communication features used by restaurants and field teams. | Paid from $29/mo | Up to 10 users |
 
 ## Open-Source GitHub Projects
 
