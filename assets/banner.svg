@@ -1,0 +1,33 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4facfe;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00f2fe;stop-opacity:1" />
+    </linearGradient>
+    <style>
+      @keyframes pulse {
+        0% { transform: scale(1); }
+        50% { transform: scale(1.05); }
+        100% { transform: scale(1); }
+      }
+      .title {
+        font-family: 'Segoe UI', Arial, sans-serif;
+        font-size: 38px;
+        font-weight: 800;
+        fill: white;
+        animation: pulse 3s ease-in-out infinite;
+        transform-origin: center;
+      }
+      .subtitle {
+        font-family: 'Segoe UI', Arial, sans-serif;
+        font-size: 20px;
+        fill: white;
+        opacity: 0.9;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" rx="15" ry="15" fill="url(#grad)" />
+  <text x="50%" y="45%" text-anchor="middle" dominant-baseline="middle" class="title">Awesome Security Validation Platform</text>
+  <text x="50%" y="70%" text-anchor="middle" dominant-baseline="middle" class="subtitle">Top SaaS &amp; Open-Source Products</text>
+</svg>
