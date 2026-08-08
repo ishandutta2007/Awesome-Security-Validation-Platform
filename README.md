@@ -34,17 +34,17 @@ Contributions welcome! 🤝 Open a PR to add/update entries. Keep descriptions f
 
 | Platform | Description | Pricing | Free Tier Limit | Company Size / Valuation |
 |----------|-------------|---------|-----------------|--------------------------|
-| **[HotSchedules (Fourth)](https://www.fourth.com/)** | Widely adopted hospitality workforce management suite covering scheduling, time & attendance, labor forecasting, compliance, and tip management for mid-to-large restaurant groups. | Custom quote based | N/A | > $1B Valuation |
-| **[Deputy](https://www.deputy.com/)** | Flexible workforce management platform offering automated scheduling, time tracking, and multi-location support used across hospitality and retail. | Paid from $3.50/user/mo | N/A | $1.1B Valuation |
+| **[HotSchedules (Fourth)](https://www.fourth.com/)** | Widely adopted hospitality workforce management suite covering scheduling, time & attendance, labor forecasting, compliance, and tip management for mid-to-large restaurant groups. | Custom quote based | Demo only | > $1B Valuation |
+| **[Deputy](https://www.deputy.com/)** | Flexible workforce management platform offering automated scheduling, time tracking, and multi-location support used across hospitality and retail. | Paid from $3.50/user/mo | 31-day free trial | $1.1B Valuation |
 | **[7shifts](https://www.7shifts.com/)** | Restaurant-focused scheduling platform with labor forecasting, POS integrations, tip management, shift swaps, and team communication tools designed for independent and multi-unit operators. | Paid from $29.99/mo/location | Up to 30 employees / 1 location | > $1B Valuation |
 | **[Connecteam](https://connecteam.com/)** | All-in-one employee app with scheduling, time tracking, task management, and communication features used by restaurants and field teams. | Paid from $29/mo | Up to 10 users | $800M+ Valuation |
 | **[Homebase](https://www.joinhomebase.com/)** | Simple and affordable scheduling, time clock, and team communication platform popular with small restaurants and single-location businesses. | Paid from $20/mo/location | Up to 20 employees / 1 location | $600M+ Valuation |
-| **[When I Work](https://wheniwork.com/)** | Popular employee scheduling and time-tracking tool with open shifts, availability management, and mobile apps suited for restaurants and small teams. | Paid from $2.50/user/mo | N/A | $500M+ Valuation |
-| **[Planday](https://www.planday.com/)** | Workforce management solution focused on hospitality scheduling, communication, and labor cost control with strong European presence. | Custom quote based | N/A | Acquired by Xero (€114M) |
+| **[When I Work](https://wheniwork.com/)** | Popular employee scheduling and time-tracking tool with open shifts, availability management, and mobile apps suited for restaurants and small teams. | Paid from $2.50/user/mo | 14-day free trial (up to 100 users) | $500M+ Valuation |
+| **[Planday](https://www.planday.com/)** | Workforce management solution focused on hospitality scheduling, communication, and labor cost control with strong European presence. | Custom quote based | 30-day free trial | Acquired by Xero (€114M) |
 | **[Sling](https://getsling.com/)** | Free and paid employee scheduling app with messaging, time tracking, and shift management frequently used by restaurants and small businesses. | Paid from $1.70/user/mo | Unlimited employees (basic scheduling only) | Acquired by Toast |
-| **[Humanity](https://www.humanity.com/)** | Workforce management platform offering scheduling, time clocks, and attendance features suitable for hospitality operations. | Paid from $3.00/user/mo | N/A | Acquired by TCP Software |
-| **[ZoomShift](https://www.zoomshift.com/)** | Straightforward employee scheduling software with drag-and-drop tools, availability tracking, and mobile access for shift-based teams. | Paid from $2.00/user/mo | N/A | $10M+ Revenue |
-| **[Schedulefly](https://www.schedulefly.com/)** | Restaurant-oriented scheduling tool emphasizing simplicity, employee messaging, and basic shift management. | Paid from $30/mo | N/A | $5M+ Revenue |
+| **[Humanity](https://www.humanity.com/)** | Workforce management platform offering scheduling, time clocks, and attendance features suitable for hospitality operations. | Paid from $3.00/user/mo | 30-day free trial | Acquired by TCP Software |
+| **[ZoomShift](https://www.zoomshift.com/)** | Straightforward employee scheduling software with drag-and-drop tools, availability tracking, and mobile access for shift-based teams. | Paid from $2.00/user/mo | 14-day free trial | $10M+ Revenue |
+| **[Schedulefly](https://www.schedulefly.com/)** | Restaurant-oriented scheduling tool emphasizing simplicity, employee messaging, and basic shift management. | Paid from $30/mo | Demo only | $5M+ Revenue |
 
 ## 🛠️ Open-Source GitHub Projects
 
